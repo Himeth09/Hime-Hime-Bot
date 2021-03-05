@@ -49,7 +49,6 @@ client.on('message', message => {
   }
 });
 
-//<187587747110846464>
 
 
 
@@ -58,4 +57,4 @@ client.on('message', message => {
 
 
 
-client.login('ODE2ODUwOTQ2NTUzMjgyNjIx.YEA9ug.tCHJT1RzK4sKexvAFY40l1CkjYE');
+client.login('insert token here');
